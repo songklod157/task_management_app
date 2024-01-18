@@ -1,6 +1,6 @@
 # task_management_app
 
-A new Flutter project.
+Test Flutter project.
 
 ## Getting Started
 develop with android sdk
